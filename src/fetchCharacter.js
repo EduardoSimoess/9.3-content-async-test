@@ -25,6 +25,7 @@ const fetchCharacter = async (id) => {
 
 //     return promise;
 // };
+console.log(fetchCharacter(10));
 
 module.exports = {
   fetchCharacter,
